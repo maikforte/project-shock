@@ -1,4 +1,4 @@
-# Project SLEX
+# Project Shock
 
 ## Table of Contents
 1. [What the hell?](#what-the-hell)
