@@ -1,5 +1,10 @@
 {
     "STORAGE_KEYS": {
         "KEY": "VAL"
+    },
+    "THEME": {
+        "HEADER": "#fff",
+        "ACTIVE": "#ee4266",
+        "INACTIVE": "#7c7a7a"
     }
 }

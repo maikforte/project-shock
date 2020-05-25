@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet } from 'react-native';
 
 class Home extends React.Component {
 
@@ -10,7 +10,9 @@ class Home extends React.Component {
 
     render() {
         return (
-            <View style={styles.container} />
+            <View style={styles.container}>
+                <Text>Home</Text>
+            </View>
         );
     }
 }

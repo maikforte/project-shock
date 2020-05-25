@@ -11,7 +11,7 @@ class Test extends React.Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text>Henlo Werld</Text>
+                <Text>Test</Text>
             </View>
         );
     }
